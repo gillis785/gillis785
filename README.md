@@ -1,4 +1,4 @@
-<h1>Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gilles Brisebois</h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gilles Brisebois
 <h3>Homelabs and CybersecuritySelf-host various servers. Utilize Proxmox and VMware ESXi for various virtual machines and Networking setups. Use of pfSense. Learning to code. Automation scripts.</h3>
 🌍  I'm based in Canada*
 🧠  I'm learning React/Next.js*

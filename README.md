@@ -1,4 +1,4 @@
-<h3>Hi 👋, My name is Gilles Brisebois
+<h3>Hi 👋, My name is Gilles
 <h4>Homelabs and CybersecuritySelf-host various servers. Utilize Proxmox and VMware ESXi for various virtual machines and Networking setups. Use of pfSense. Learning to code. Automation scripts.</h4>
 
 - 🌍  I'm based in Canada*

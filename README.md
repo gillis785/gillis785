@@ -1,5 +1,5 @@
 <h3>Hi 👋, My name is Gilles
-<h4>Homelabs and CybersecuritySelf-host various servers. Utilize Proxmox and VMware ESXi for various virtual machines and Networking setups. Use of pfSense. Learning to code. Automation scripts.</h4>
+<h4>Homelabs, Cybersecurity and Self-host various servers. Utilize Proxmox and VMware ESXi for various virtual machines and Networking setups. Use of pfSense. Learning to code. Automation scripts.</h4>
 
 - 🌍  I'm based in Canada*
 - 🧠  I'm learning React/Next.js*
